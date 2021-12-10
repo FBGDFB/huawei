@@ -1,10 +1,10 @@
 {
-    "UpdateURL": "",
-    "AdsManagerURL": "",
-    "MoreGameURL": "",
+    "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/CouplesDressUp/UpgradeData.json",
+    "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/CouplesDressUp/AdsDATA.json",
+    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/CouplesDressUp/MoreGame.json",
     "MoreGameDataURL": "",
     "OneSignalPushId": "",
-    "feedbackEmail": "[Your feedback mail]",
+    "feedbackEmail": "bouhaili.24@gmail.com",
     "Appelink": "[Your application store link]",
     "privacyURL": ""
 }
