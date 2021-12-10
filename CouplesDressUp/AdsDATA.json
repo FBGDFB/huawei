@@ -1,24 +1,24 @@
 {
     "Virtion": "v1.0.0",
-    "OfferWellappKey": "1247eb845",
+    "OfferWellappKey": "1260a05bd",
     "EnableOfferWell": 0,
-    "appKey": "1247eb845",
+    "appKey": "1260a05bd",
     "bannerAdUnit": "DefaultBanner",
     "interstitialAdUnit": "DefaultInterstitial",
     "rewardedVideoAdUnit": "DefaultRewardedVideo",
     "EnableOnerAds": 0,
-    "AdsUrl": "",
-    "ImageUrl": "",
-    "Description": "",
-    "Title": "",
+    "AdsUrl": "https://appgallery.huawei.com/app/C105010921",
+    "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/FullScreenAds/sudokoFull.png",
+    "Description": "Play the classic paper and pencil puzzle game right on your phone or tablet! Enjoy a timeless classic whether you're a beginner or an expert with our simple and elegant design.Challenge your problem-solving skills ",
+    "Title": "Sudoko LITE",
     "ImageADS": {
         "instanceID": 0
     },
-    "EnableOnerNative": 1,
-    "NativeAdsUrl": "",
-    "NativeImageUrl": "",
-    "NativeDescription": "",
-    "NativeTitle": "",
+    "EnableOnerNative": 0,
+    "NativeAdsUrl": "https://appgallery.huawei.com/app/C105010921",
+    "NativeImageUrl": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/Sudoku.png",
+    "NativeDescription": "Play the classic paper and pencil puzzle game right on your phone",
+    "NativeTitle": "sudoko LITE",
     "NativeImageADS": {
         "instanceID": 0
     }
