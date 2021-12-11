@@ -6,7 +6,7 @@
     "bannerAdUnit": "DefaultBanner",
     "interstitialAdUnit": "DefaultInterstitial",
     "rewardedVideoAdUnit": "DefaultRewardedVideo",
-    "EnableOnerAds": 0,
+    "EnableOnerAds":1,
     "AdsUrl": "https://appgallery.huawei.com/app/C105010921",
     "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/FullScreenAds/sudokoFull.png",
     "Description": "Play the classic paper and pencil puzzle game right on your phone or tablet! Enjoy a timeless classic whether you're a beginner or an expert with our simple and elegant design.Challenge your problem-solving skills ",
