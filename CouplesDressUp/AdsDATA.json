@@ -1,5 +1,5 @@
 {
-    "Virtion": "v1.0.0",
+    "Virtion": "v1.0.1",
     "OfferWellappKey": "1260a05bd",
     "EnableOfferWell": 0,
     "appKey": "1260a05bd",
@@ -7,18 +7,18 @@
     "interstitialAdUnit": "DefaultInterstitial",
     "rewardedVideoAdUnit": "DefaultRewardedVideo",
     "EnableOnerAds":0,
-    "AdsUrl": "https://appgallery.huawei.com/app/C105010921",
-    "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/Ball_Sort/main/Huawei/FullScreenAds/sudokoFull.png",
-    "Description": "Play the classic paper and pencil puzzle game right on your phone or tablet! Enjoy a timeless classic whether you're a beginner or an expert with our simple and elegant design.Challenge your problem-solving skills ",
-    "Title": "Sudoko LITE",
+    "AdsUrl": "https://appgallery.huawei.com/app/C105039399",
+    "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/CouplesDressUp/SortCandyBobbles.jpg",
+    "Description": "From  the legendary Dreaming Boy comes Sort Candy Bobbles Saga! Unique candies, more divine matching combinations and challenging game ",
+    "Title": "Sort Candy Bobbles - 球类拼图",
     "ImageADS": {
         "instanceID": 0
     },
     "EnableOnerNative": 0,
-    "NativeAdsUrl": "https://appgallery.huawei.com/app/C105010921",
-    "NativeImageUrl": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/Sudoku.png",
-    "NativeDescription": "Play the classic paper and pencil puzzle game right on your phone",
-    "NativeTitle": "sudoko LITE",
+    "NativeAdsUrl": "https://appgallery.huawei.com/app/C105039399",
+    "NativeImageUrl": "https://appimg2.dbankcdn.com/application/icon144/65/4affb7c1f621478b8b3eae846efb340a.png",
+    "NativeDescription": "Play the sweetest puzzle game! Sorted candies,Start sorting now!",
+    "NativeTitle": "Sort Candy Bobbles",
     "NativeImageADS": {
         "instanceID": 0
     }
