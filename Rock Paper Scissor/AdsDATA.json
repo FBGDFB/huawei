@@ -1,12 +1,6 @@
 {
     "Virtion": "v1.0.1",
-    "OfferWellappKey": "",
-    "EnableOfferWell": 1,
     "EnableAdsTestMode": 1,
-    "appKey": "",
-    "bannerAdUnit": "",
-    "interstitialAdUnit": "",
-    "rewardedVideoAdUnit": "",
     "EnableOnerAds": 0,
     "AdsUrl": "https://appgallery.huawei.com/app/C105039399",
     "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/CouplesDressUp/SortCandyBobbles.jpg",
