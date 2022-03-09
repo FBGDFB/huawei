@@ -1,6 +1,6 @@
 {
     "Virtion": "v1.0.0",
-    "EnableAdsTestMode": 0,
+    "EnableAdsTestMode":1,
     "EnableOnerAds": 0,
     "AdsUrl": "https://appgallery.huawei.com/app/C105039399",
     "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/CouplesDressUp/SortCandyBobbles.jpg",
