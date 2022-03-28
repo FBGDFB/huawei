@@ -1,21 +1,21 @@
 { 
-    "Virtion": 5,
+    "Virtion": 6,
     "Data": [
         
         {
-            "Name": "Download now",
+            "Name": " ",
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/%20All%20in%20one%20game.jpg",
             "GameUrl": "https://appgallery.huawei.com/app/C104185441",
             "Stars": 5
         },
         {
-            "Name": "Download now",
+            "Name": " ",
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/%20frive.jpg",
             "GameUrl": "https://appgallery.huawei.com/app/C104185441",
             "Stars": 5
         },
         {
-            "Name": "Download now",
+            "Name": " ",
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/%20html%20games.jpg",
             "GameUrl": "https://appgallery.huawei.com/app/C104185441",
             "Stars": 5
