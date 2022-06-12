@@ -1,0 +1,18 @@
+{
+    "SpriteShapeAds": [
+        {
+            "sprite": {
+                "instanceID": 19802
+            },
+            "AdsImageUrl": "test",
+            "AdsUrl": "test"
+        },
+        {
+            "sprite": {
+                "instanceID": 19818
+            },
+            "AdsImageUrl": "test",
+            "AdsUrl": "test"
+        }
+    ]
+}
