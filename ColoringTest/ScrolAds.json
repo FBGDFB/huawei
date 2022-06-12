@@ -21,6 +21,13 @@
             },
             "AdsImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ADS/16%20widding%20ads.png",
             "AdsUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ADS/16%20widding%20ads.png"
+        },
+        {
+            "sprite": {
+                "instanceID": 19818
+            },
+            "AdsImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ADS/16%20widding%20ads.png",
+            "AdsUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ADS/16%20widding%20ads.png"
         }
     ]
 }
