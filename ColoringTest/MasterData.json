@@ -3,6 +3,7 @@
     "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/AdsDATA.json",
     "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/MoreGame.json",
     "MoreGameDataURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/MoreGameData.json",
+    "ScrolAdsURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ScrolAds.json",
     "OneSignalPushId": "",
     "feedbackEmail": "mailto:bouhaili.24@gmail.com",
     "Appelink": "https://appgallery.huawei.com/app/C105266641",
