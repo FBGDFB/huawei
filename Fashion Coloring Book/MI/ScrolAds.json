@@ -1,33 +1,6 @@
 {
     "Virtion": 1,
     "SpriteShapeAds": [
-        {
-            "sprite": {
-                "instanceID": 19802
-            },
-            "AdsImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ADS/0%20prinssec.png",
-            "AdsUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ADS/0%20prinssec.png"
-        },
-        {
-            "sprite": {
-                "instanceID": 19818
-            },
-            "AdsImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ADS/12%20fashion%20ads.png",
-            "AdsUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ADS/12%20fashion%20ads.png"
-        },
-        {
-            "sprite": {
-                "instanceID": 19818
-            },
-            "AdsImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ADS/16%20widding%20ads.png",
-            "AdsUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ADS/16%20widding%20ads.png"
-        },
-        {
-            "sprite": {
-                "instanceID": 19818
-            },
-            "AdsImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ADS/16%20widding%20ads.png",
-            "AdsUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ADS/16%20widding%20ads.png"
-        }
+       
     ]
 }
