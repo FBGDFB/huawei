@@ -1,10 +1,10 @@
 {
     "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Word%20Search%20Quiz/UpgradeData.json",
-    "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Word%20Search%20Quiz/AdsDATA.json",
-    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Word%20Search%20Quiz/MoreGame.json",
-    "MoreGameDataURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Word%20Search%20Quiz/MoreGameData.json",
+    "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Kids%20Coloring%20Pages/MI/AdsDATA.json",
+    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Kids%20Coloring%20Pages/MI/MoreGame.json",
+    "MoreGameDataURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Kids%20Coloring%20Pages/MI/MoreGameData.json",
     "OneSignalPushId": "",
     "feedbackEmail": "mailto:bouhaili.24@gmail.com",
-    "Appelink": "https://appgallery.huawei.com/app/C105266641",
+    "Appelink": "",
     "privacyURL": "https://bobblessort.blogspot.com/2022/01/coloring-book-kids.html"
 }
