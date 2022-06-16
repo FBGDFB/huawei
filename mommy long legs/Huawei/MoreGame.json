@@ -1,0 +1,23 @@
+[
+   
+  {
+       "Name":"Poppy Money",
+       "Description":"This game is far beyond an ordinary poor or rich run race. Earn money.",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/ordinary.jpg",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.GamePlay.PopiMoneyPlaytime"
+   },
+  {
+       "Name":"Squid Challenge",
+       "Description":"Squid Challenge game is a classic jumping game that's easy to play",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/sqoud.jpg",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.GamePlay.SquidChallangeGlassStepping"
+   },
+   {
+       "Name":"Squid Challenge",
+       "Description":"Play a game squid sequential series of simple, quick battle games",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye2/SquidChallenge.jpg",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.OfflineGames.SquidGame.Compition.SquidJeux"
+   }
+]
+
+
