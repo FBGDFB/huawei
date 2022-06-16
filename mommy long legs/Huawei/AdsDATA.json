@@ -1,13 +1,14 @@
 {
-    "Virtion": "v1.0.4",
+    "Virtion": "v1.0.0",
     "OfferWellappKey": "",
     "EnableOfferWell": 1,
-    "EnableAdsTestMode": 1,
+    "EnableAdsTestMode": 0,
     "EnableTestMode": 0,
     "appKey": "",
     "bannerAdUnit": "",
     "interstitialAdUnit": "",
     "rewardedVideoAdUnit": "",
+    "directedForChildren": false,
     "EnableOnerAds": 1,
     "AdsUrl": "https://appgallery.huawei.com/app/C105039399",
     "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/CouplesDressUp/SortCandyBobbles.jpg",
@@ -22,6 +23,12 @@
     "NativeDescription": "Play the sweetest puzzle game! Sorted candies,Start sorting now!",
     "NativeTitle": "Sort Candy Bobbles",
     "NativeImageADS": {
+        "instanceID": 0
+    },
+    "EnableOnerbaner": 1,
+    "AdsbanerUrl": "",
+    "ImagebanerUrl": "",
+    "ImagebanerADS": {
         "instanceID": 0
     }
 }
