@@ -1,5 +1,5 @@
 {   
-    "Virtion":2,
+    "Virtion":3,
     "Data": [
         {
             "Name": "spide Mommy ",
@@ -11,7 +11,9 @@
             "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/mommy%20long%20legs/RAW1/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/mommy%20long%20legs/RAW1/spideyvoicecall.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/mommy%20long%20legs/RAW1/spideyvidcall.mp4",
-            "Online": true
+             "Best": true,
+            "New": true,
+            "Coins": 15
         },
         {
             "Name": "mommy long legs",
@@ -23,7 +25,9 @@
             "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/mommy%20long%20legs/RAW2/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/mommy%20long%20legs/RAW2/voice_1.ogg",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/mommy%20long%20legs/RAW2/v4618.mp4",
-            "Online": true
+             "Best": true,
+            "New": true,
+            "Coins": 15
         },
         {
             "Name": "Scary Mommy",
@@ -35,7 +39,9 @@
             "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/mommy%20long%20legs/RAW3/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/mommy%20long%20legs/RAW3/voice_1.ogg",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/mommy%20long%20legs/RAW3/video_call_two.mp4",
-            "Online": true
+             "Best": true,
+            "New": true,
+            "Coins": 15
         },
         {
             "Name": "ScaryClone",
@@ -47,7 +53,9 @@
             "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/mommy%20long%20legs/RAW4/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/mommy%20long%20legs/RAW4/sans_audio.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/mommy%20long%20legs/RAW4/sans_video.mp4",
-            "Online": true
+             "Best": true,
+            "New": true,
+            "Coins": 15
         }
     ]
 }
