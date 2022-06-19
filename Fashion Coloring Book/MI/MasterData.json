@@ -1,11 +1,11 @@
 {
-    "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Fashion%20Coloring%20Book/UpgradeData.json",
-    "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Fashion%20Coloring%20Book/AdsDATA.json",
-    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Fashion%20Coloring%20Book/MoreGame.json",
-    "MoreGameDataURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Fashion%20Coloring%20Book/MoreGameData.json",
-    "ScrolAdsURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Fashion%20Coloring%20Book/ScrolAds.json",
+    "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Fashion%20Coloring%20Book/MI/UpgradeData.json",
+    "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Fashion%20Coloring%20Book/MI/AdsDATA.json",
+    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Fashion%20Coloring%20Book/MI/MoreGame.json",
+    "MoreGameDataURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Fashion%20Coloring%20Book/MI/MoreGameData.json",
+    "ScrolAdsURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Fashion%20Coloring%20Book/MI/ScrolAds.json",
     "OneSignalPushId": "",
     "feedbackEmail": "mailto:bouhaili.24@gmail.com",
-    "Appelink": "",
+    "Appelink": " ",
     "privacyURL": "https://bobblessort.blogspot.com/2022/06/fashion-coloring-book.html"
 }
