@@ -1,13 +1,46 @@
 {
-    "Virtion": 1,
+    "Virtion": 2,
     "SpriteShapeAds": [
         {
             "sprite": {
                 "instanceID": 19802
             },
-            "AdsImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ADS/0%20prinssec.png",
-            "AdsUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/ColoringTest/ADS/0%20prinssec.png"
+            "AdsImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/peppa%20pig%20coloring/ADS%20coloring/Dino%20Coloring.jpg",
+            "AdsUrl": "https://appgallery.huawei.com/app/C106487765"
+        }, {
+            "sprite": {
+                "instanceID": 19802
+            },
+            "AdsImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/peppa%20pig%20coloring/ADS%20coloring/Fashion%Coloring.jpg",
+            "AdsUrl": "https://appgallery.huawei.com/app/C106453967"
         }
-       
+        , {
+            "sprite": {
+                "instanceID": 19802
+            },
+            "AdsImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/peppa%20pig%20coloring/ADS%20coloring/Kids%coloring.jpg",
+            "AdsUrl": "https://appgallery.huawei.com/app/C106470221"
+        }
+        , {
+            "sprite": {
+                "instanceID": 19802
+            },
+            "AdsImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/peppa%20pig%20coloring/ADS%20coloring/Pappe%big%coloring.jpg",
+            "AdsUrl": "https://appgallery.huawei.com/app/C106516033"
+        }
+        , {
+            "sprite": {
+                "instanceID": 19802
+            },
+            "AdsImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/peppa%20pig%20coloring/ADS%20coloring/kids%2%coloring.jpg",
+            "AdsUrl": "https://appgallery.huawei.com/app/C105266641"
+        }
+       , {
+            "sprite": {
+                "instanceID": 19802
+            },
+            "AdsImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/peppa%20pig%20coloring/ADS%20coloring/unicorn%coloring.jpg",
+            "AdsUrl": "httphttps://appgallery.huawei.com/app/C106406519"
+        }
     ]
 }
