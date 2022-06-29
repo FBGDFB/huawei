@@ -1,0 +1,58 @@
+{
+    "Data": [
+        {
+            "ImagrUrl": "",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "true",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "false",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+         {
+            "ImagrUrl": "",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "false",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "true",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "false",
+                "TrueAnswer": false
+            }
+        },
+         {
+            "ImagrUrl": "",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "false",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "false",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "true",
+                "TrueAnswer": true
+            }
+        }
+    ]
+}
