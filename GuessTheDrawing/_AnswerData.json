@@ -1,16 +1,52 @@
 {
     "Data": [
-        {
-            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data/pack1-level1-outline.png",
+         {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Akaza%20Chibi.jpg",
             "Image": {
                 "instanceID": 0
             },
             "Answer1": {
-                "Answer": "true",
+                "Answer": "Morgan",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Akaza",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Anais.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Darwin",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Anais",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Ash.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Ash",
                 "TrueAnswer": true
             },
             "Answer2": {
-                "Answer": "false",
+                "Answer": "Masha",
                 "TrueAnswer": false
             },
             "Answer3": {
@@ -18,40 +54,40 @@
                 "TrueAnswer": false
             }
         },
-         {
-            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data/pack1-level11-outline.png",
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Boss.jpg",
             "Image": {
                 "instanceID": 0
             },
             "Answer1": {
-                "Answer": "false",
+                "Answer": "Boy",
                 "TrueAnswer": false
             },
             "Answer2": {
-                "Answer": "true",
+                "Answer": "Boss",
                 "TrueAnswer": true
             },
             "Answer3": {
-                "Answer": "false",
+                "Answer": "",
                 "TrueAnswer": false
             }
         },
-         {
-            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data/pack1-level4-outline.png",
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Darwin.jpg",
             "Image": {
                 "instanceID": 0
             },
             "Answer1": {
-                "Answer": "false",
+                "Answer": "",
                 "TrueAnswer": false
             },
             "Answer2": {
-                "Answer": "false",
+                "Answer": "",
                 "TrueAnswer": false
             },
             "Answer3": {
-                "Answer": "true",
-                "TrueAnswer": true
+                "Answer": "",
+                "TrueAnswer": false
             }
         }
     ]
