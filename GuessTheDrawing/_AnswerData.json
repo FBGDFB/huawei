@@ -1,6 +1,6 @@
 {
     "Data": [
-         {
+        {
             "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Akaza%20Chibi.jpg",
             "Image": {
                 "instanceID": 0
@@ -78,11 +78,695 @@
                 "instanceID": 0
             },
             "Answer1": {
-                "Answer": "",
+                "Answer": "Watirtion",
                 "TrueAnswer": false
             },
             "Answer2": {
+                "Answer": "Darwin",
+                "TrueAnswer": true
+            },
+            "Answer3": {
                 "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Dora.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Dora",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Lora",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "Nora",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Dora2.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Diego",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Boots ",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "Swiper",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Finn.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "BMO",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "FINN",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "JAK",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Goblin.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Spidrman",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Goblin",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Gumball.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Richard ",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Darwin ",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "Gumball ",
+                "TrueAnswer": true
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Hello%20Kitty.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Hello-Kitty",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Kitty-Kitty",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Hulk.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Hulk",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Holk",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Johnny.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Johnny",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Jak",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "jimi",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Kurama.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Shukaku",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Saiken",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "Kurama",
+                "TrueAnswer": true
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Luffy.png",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Luffy",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Nami",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "Nico",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Mario.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Maro",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Mario",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "Hiro",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Monster.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Hoggy",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Monstr",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Pikachu.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Pichu",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Pikachu",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "Ritchie",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Pink.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Pink",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Pank",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Pirate.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Pirate",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "warrior",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Pluto.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Goofy",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Pluto",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "Pete",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Pocoyo.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Pocoyo",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Coyopo",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "CoCo",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Pumbaa.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Kuvo",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Pumbaa",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "Kiara",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Sarada.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Boruto ",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Mitsuki",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "Sarada",
+                "TrueAnswer": true
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Sonic.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "FNF",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Sonic",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Spider-Man.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "SuperMan",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "SpiderMan",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "Iroman",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Squirtle.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Dialga",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Eevee",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "Squirtle",
+                "TrueAnswer": true
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Timon's.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Timon's",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Chagi",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "Lagi",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Tobias.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Gambol",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Tobias",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Venom's.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "SpiderMan",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Venom's",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Woody.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Woody",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Jak",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/Wubbzy.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Wubbzy",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Widget",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "Walden",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/ZOMBE.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Zombe",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "bool",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/baa%20baa.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Timmy",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Shirley",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "Bitzer",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/bocalife.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Nari",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Rita",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "Zeke",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/boruto.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Inojin ",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Tenten",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "boruto",
+                "TrueAnswer": true
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/dale.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Dale",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Bili",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "Wili",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/luca.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "luca",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Alberto ",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "Giulia ",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/luca2.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Alberto ",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "luca",
+                "TrueAnswer": true
+            },
+            "Answer3": {
+                "Answer": "Giulia ",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/mommy.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Mommy",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Hoggy",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "Boggy",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/ninjaGo.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Lloyd ",
+                "TrueAnswer": false
+            },
+            "Answer2": {
+                "Answer": "Jay ",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "Kai",
+                "TrueAnswer": true
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/poppy.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "poppy",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "hoggy",
+                "TrueAnswer": false
+            },
+            "Answer3": {
+                "Answer": "mommy",
+                "TrueAnswer": false
+            }
+        },
+        {
+            "ImagrUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/Data2/toothless.jpg",
+            "Image": {
+                "instanceID": 0
+            },
+            "Answer1": {
+                "Answer": "Toothless",
+                "TrueAnswer": true
+            },
+            "Answer2": {
+                "Answer": "Dragon",
                 "TrueAnswer": false
             },
             "Answer3": {
