@@ -1,0 +1,421 @@
+{
+    "NomberMessageAftrShowAds": 3,
+    "CorantID": 0,
+    "GetNextQuestions": false,
+    "NoAnserFind": [],
+    "QData": [
+        {
+            "RobotQuestion": "hello ",
+            "ID": 0,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "Hello",
+                    "RobotMassage": "😍"
+                },
+                {
+                    "UserMassage": "Hi",
+                    "RobotMassage": "welcome I'm very hapy to talk to you😍 "
+                },
+                {
+                    "UserMassage": "Hi",
+                    "RobotMassage": "nice😍"
+                },
+                {
+                    "UserMassage": "Hello i love you",
+                    "RobotMassage": "I love you too"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "how are you?",
+            "ID": 2,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "i'm fine Thanks",
+                    "RobotMassage": "this is good "
+                },
+                {
+                    "UserMassage": "i'm good Thanks",
+                    "RobotMassage": "you welcome "
+                },
+                {
+                    "UserMassage": "i feel happy to talk to you",
+                    "RobotMassage": "oh that's so sweet"
+                },
+                {
+                    "UserMassage": "I'm sick",
+                    "RobotMassage": "😢 I wish you a speedy recovery"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "how old are you",
+            "ID": 1,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "i'm less than 15",
+                    "RobotMassage": "perfect"
+                },
+                {
+                    "UserMassage": "i'm More than 15",
+                    "RobotMassage": "nice"
+                },
+                {
+                    "UserMassage": "i'm less than 20",
+                    "RobotMassage": "nice"
+                },
+                {
+                    "UserMassage": "i'm More than 20",
+                    "RobotMassage": "perfect"
+                },
+                {
+                    "UserMassage": "i'm More than 30",
+                    "RobotMassage": "Nice to know that"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "you know who i'm?",
+            "ID": 3,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "yes",
+                    "RobotMassage": "Nice to know that"
+                },   
+                {
+                    "UserMassage": "No",
+                    "RobotMassage": "i am Steven black"
+                }
+                
+            ]
+        },
+        {
+            "RobotQuestion": "Choose a question for me:)",
+            "ID": 4,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "where're you from?",
+                    "RobotMassage": "I'm from usa"
+                },
+                {
+                    "UserMassage": "what kind of food do you like?",
+                    "RobotMassage": "i like almost everything,and my favorite is pizza"
+                },
+                {
+                    "UserMassage": "favorite sport?",
+                    "RobotMassage": "I love american football"
+                },
+                {
+                    "UserMassage": "do you think money can buy happiness?",
+                    "RobotMassage": "yes of course it helps"
+                },
+                {
+                    "UserMassage": "are you here everytime?",
+                    "RobotMassage": "yes i'm always watching you"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "so i have a challenge for you, How many ghosts show up in A Christmas Carol?",
+            "ID": 5,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "4",
+                    "RobotMassage": "great job "
+                },
+                {
+                    "UserMassage": "5",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "I don't know",
+                    "RobotMassage": "Well let's go for another challenge"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "What are the two other most popular names for Santa Claus?",
+            "ID": 6,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "Jhon Hamiltion",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "Kris Kringle",
+                    "RobotMassage": "great job "
+                },
+                {
+                    "UserMassage": "Saint Nick",
+                    "RobotMassage": "wow you're relly smart😀"
+                }
+            ]
+        },
+         {
+            "RobotQuestion": "What do people traditionally put on top of a Christmas tree?",
+            "ID": 7,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "cookes",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "An angel",
+                    "RobotMassage": "great job "
+                },
+                {
+                    "UserMassage": "I don't know",
+                    "RobotMassage": "Well let's go for another challenge"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "Stollen is the traditional fruit cake of which country?",
+            "ID": 8,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "China",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "Germany",
+                    "RobotMassage": "great job "
+                },
+                {
+                    "UserMassage": "I don't know",
+                    "RobotMassage": "Well let's go for another challenge"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "What color is Santa’s suit?",
+            "ID": 9,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "Green",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "Red",
+                    "RobotMassage": "great job "
+                },
+                {
+                    "UserMassage": "I don't know",
+                    "RobotMassage": "Well let's go for another challenge"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "Where does Santa Claus live?",
+            "ID": 10,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "in North Africa",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "In South Africa",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "The North Pole",
+                    "RobotMassage": "great job "
+                },
+                {
+                    "UserMassage": "I don't know",
+                    "RobotMassage": "Well let's go for another challenge"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": " When is Christmas celebrated?",
+            "ID": 11,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "26 December",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "28 December",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "25 December",
+                    "RobotMassage": "great job "
+                },
+                {
+                    "UserMassage": "I don't know",
+                    "RobotMassage": "Well let's go for another challenge"
+                }
+            ]
+        },
+         {
+            "RobotQuestion": " People buy Artificial Christmas trees more than real ones. True or false?",
+            "ID": 12,
+            "MessageType": 0,
+            "Anser": [
+                
+                {
+                    "UserMassage": "false",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "True",
+                    "RobotMassage": "great job "
+                },
+                {
+                    "UserMassage": "I don't know",
+                    "RobotMassage": "Well let's go for another challenge"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "What is Santa's Canadian postal code?",
+            "ID": 13,
+            "MessageType": 0,
+            "Anser": [
+                
+                {
+                    "UserMassage": "HOH OHO",
+                    "RobotMassage": "great job "
+                },
+                {
+                    "UserMassage": "OHO HOH",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "I don't know",
+                    "RobotMassage": "Well let's go for another challenge"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "What is Santa's Canadian postal code?",
+            "ID": 14,
+            "MessageType": 0,
+            "Anser": [
+                
+                {
+                    "UserMassage": "HOH OHO",
+                    "RobotMassage": "great job "
+                },
+                {
+                    "UserMassage": "OHO HOH",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "I don't know",
+                    "RobotMassage": "Well let's go for another challenge"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "ask me!!",
+            "ID": 15,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "how many luanguages do you speak?",
+                    "RobotMassage": "i speak spanich and english"
+                },
+                {
+                    "UserMassage": "What do you do in spare time?",
+                    "RobotMassage": "Take my view and enjoy the view of nature"
+                },
+                {
+                    "UserMassage": "you have a pet?",
+                    "RobotMassage": "I love dogs"
+                }
+            ]
+        },
+         
+        {
+            "RobotQuestion": "can you tell me who's the king of jungle?",
+            "ID": 16,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "snowman",
+                    "RobotMassage": "you god damn right"
+                },
+                {
+                    "UserMassage": "Gorilla",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "golden goat",
+                    "RobotMassage": "i'll accept that "
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "awesome can you tell me how much 2*4?",
+            "ID": 17,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "6",
+                    "RobotMassage": "wrong answer"
+                },
+                {
+                    "UserMassage": "8",
+                    "RobotMassage": "that's correct"
+                },
+                {
+                    "UserMassage": "i'm not sure",
+                    "RobotMassage": "it's 8 but it's ok"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "ask me some questions!!",
+            "ID":18,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "What would be your super power?",
+                    "RobotMassage": "I wish I could fly"
+                },
+                {
+                    "UserMassage": "Do you sing in the shower?",
+                    "RobotMassage": "yes hahaha i think everybody does it"
+                },
+                {
+                    "UserMassage": "do you have girlfirend?",
+                    "RobotMassage": "Yes, I have one, so I'll let you find out"
+                }
+            ]
+        },
+         {
+            "RobotQuestion": "Looks like we had a nice time ?",
+            "ID": 19,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "Yes I enjoyed it See you later",
+                    "RobotMassage": "Thank you see you later"
+                },
+                {
+                    "UserMassage": "Yes, but I still haven't finished talking to you",
+                    "RobotMassage": "I'm sorry but I have work to do"
+                },
+                {
+                    "UserMassage": "I do not think so",
+                    "RobotMassage": "perfect :)can you call me now?"
+                }
+            ]
+        }
+    ]
+}
