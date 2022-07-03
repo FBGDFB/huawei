@@ -3,7 +3,7 @@
     "OfferWellappKey": "",
     "EnableOfferWell": 1,
     "EnableAdsTestMode": 0,
-    "EnableTestMode": 0,
+    "EnableTestMode": 1,
     "appKey": "",
     "bannerAdUnit": "",
     "interstitialAdUnit": "",
