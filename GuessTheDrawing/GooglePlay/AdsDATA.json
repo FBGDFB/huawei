@@ -1,11 +1,11 @@
 {
-   "Virtion": "v1.0.0",
+   "Virtion": "v1.0.1",
     "EnableAdsTestMode": 0,
     "appKey": "",
     "bannerAdUnit": "",
     "interstitialAdUnit": "",
     "rewardedVideoAdUnit": "",
-    "NobmberClickToShowAds": 300,
+    "NobmberClickToShowAds": 5,
     "MotionViewUrl": "",
     "UseMotionView": false,
     
