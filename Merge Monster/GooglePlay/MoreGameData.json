@@ -1,17 +1,11 @@
 { 
-    "Virtion": 6,
-    "Data": [       
-              {
-                    "Name": " ",
-                    "IconUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/mommy%20long%20legs/ADS/Mommyads.jpg",
-                    "GameUrl": "https://appgallery.huawei.com/app/C106480391",
-                    "Stars": 5
-                },
-                {
-                     "Name": "",
-                    "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Ads/puppy2.jpg",
-                    "GameUrl": "https://appgallery.huawei.com/app/C105390661",
-                    "Stars": 5
-                }
+    "Virtion": 2,
+    "Data": [
+        {
+            "Name": "",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Ads/Scary%20horrora.jpg",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.yazengame.scaryteachers.video.prank",
+            "Stars": 5
+        }
     ]
 }
