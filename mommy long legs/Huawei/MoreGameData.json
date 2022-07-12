@@ -29,11 +29,12 @@
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Ads/puppy2.jpg",
             "GameUrl": "https://appgallery.huawei.com/app/C105390661",
             "Stars": 5
-        },{
-            "Name": "",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Unicorn%20Runner%203D/ads/adsUnicorn.jpg",
-            "GameUrl": "https://appgallery.huawei.com/app/C105594581",
-            "Stars": 5
+        },
+        {
+           "Name": " ",
+           "IconUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Merge%20Monster/ADS/MergeMaster.png",
+           "GameUrl": "https://appgallery.huawei.com/app/C106623819",
+           "Stars": 5
         }
      
     ]
