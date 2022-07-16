@@ -3,7 +3,7 @@
     "OfferWellappKey": "",
     "EnableAdsSwitch": 0,
     "EnableAdsTestMode": 0,
-    "ShowBanner": true,
+    "ShowBanner": false,
     "COPPA": false,
     "AdsInRetry": false,
     "AdsInNoThinksBtn": false,
