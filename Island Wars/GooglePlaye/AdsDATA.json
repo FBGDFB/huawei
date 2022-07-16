@@ -1,8 +1,8 @@
 {
-    "Virtion": "v1.0.1",
+    "Virtion": "v1.0.0",
     "OfferWellappKey": "",
     "EnableAdsSwitch": 0,
-    "EnableAdsTestMode": 1,
+    "EnableAdsTestMode": 0,
     "ShowBanner": false,
     "COPPA": false,
     "AdsInRetry": false,
@@ -12,7 +12,7 @@
     "bannerAdUnit": "",
     "interstitialAdUnit": "",
     "rewardedVideoAdUnit": "",
-    "EnableOnerAds": 1,
+    "EnableOnerAds": ,
     "AdsUrl": "https://appgallery.huawei.com/app/C105039399",
     "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/CouplesDressUp/SortCandyBobbles.jpg",
     "Description": "From  the legendary Dreaming Boy comes Sort Candy Bobbles Saga! Unique candies, more divine matching combinations and challenging game ",
@@ -20,7 +20,7 @@
     "ImageADS": {
         "instanceID": 0
     },
-    "EnableOnerNative": 0,
+    "EnableOnerNative": 1,
     "NativeAdsUrl": "https://appgallery.huawei.com/app/C105039399",
     "NativeImageUrl": "https://appimg2.dbankcdn.com/application/icon144/65/4affb7c1f621478b8b3eae846efb340a.png",
     "NativeDescription": "Play the sweetest puzzle game! Sorted candies,Start sorting now!",
