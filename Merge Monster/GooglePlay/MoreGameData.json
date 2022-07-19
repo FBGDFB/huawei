@@ -6,6 +6,11 @@
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Ads/Scary%20horrora.jpg",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.yazengame.scaryteachers.video.prank",
             "Stars": 5
-        }
+        },{
+            "Name": "",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Island%20Wars/ADS/warIsland.jpg",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.DreamingBoy.islandwars",
+            "Stars": 4
+       }
     ]
 }
