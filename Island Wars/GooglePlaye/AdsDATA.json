@@ -12,11 +12,11 @@
     "bannerAdUnit": "",
     "interstitialAdUnit": "",
     "rewardedVideoAdUnit": "",
-    "EnableOnerAds": 1,
-    "AdsUrl": "https://appgallery.huawei.com/app/C105039399",
-    "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/CouplesDressUp/SortCandyBobbles.jpg",
-    "Description": "From  the legendary Dreaming Boy comes Sort Candy Bobbles Saga! Unique candies, more divine matching combinations and challenging game ",
-    "Title": "Sort Candy Bobbles - 球类拼图",
+    "EnableOnerAds": 0,
+    "AdsUrl": "https://play.google.com/store/apps/details?id=com.dreamingboy.mergemaster",
+    "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Merge%20Monster/ADS/MergeMaster.png",
+    "Description": "Merge Master: Dinosaur is a cool real-time strategy game for everyone.The main goal of the game is to beat all the enemies by combining your warriors or dinosaurs. The enemies are dragons, monsters, Trex, or other dinosaurs, so it will not be easy.",
+    "Title": "Merge Master Dinosaurs",
     "ImageADS": {
         "instanceID": 0
     },
