@@ -9,7 +9,7 @@
     "MotionViewUrl": "",
     "UseMotionView": false,
     "AdsInRetry": true,
-    "AdsInNoThinksBtn": true,
+    "AdsInNoThinksBtn": false,
     "EnableOnerAds": 1,
     "AdsUrl": "https://appgallery.huawei.com/app/C105039399",
     "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/CouplesDressUp/SortCandyBobbles.jpg",
