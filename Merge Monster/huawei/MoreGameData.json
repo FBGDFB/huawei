@@ -18,6 +18,12 @@
                     "IconUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Island%20Wars/ADS/islandWar.jpeg",
                     "GameUrl": "https://appgallery.huawei.com/app/C106687567",
                     "Stars": 4
+                },
+                 {
+                    "Name": "",
+                    "IconUrl": "https://appimg2.dbankcdn.com/application/screenshut1/65/62b9527d33ab4922ac4bfa24ac8e8b56.jpg",
+                    "GameUrl": "https://appgallery.huawei.com/app/C106536405",
+                    "Stars": 5
                 }
     ]
 }
