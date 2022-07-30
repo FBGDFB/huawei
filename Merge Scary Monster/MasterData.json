@@ -1,10 +1,10 @@
 {
     "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Merge%20Scary%20Monster/UpgradeData.json",
     "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Merge%20Scary%20Monster/AdsDATA.json",
-    "MoreGameURL": " ",
+    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Merge%20Scary%20Monster/MoreGameData.json",
     "MoreGameDataURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Merge%20Scary%20Monster/MoreGameData.json",
     "OneSignalPushId": "12a54a53-156e-4557-8cd1-c731d4e8a573",
     "feedbackEmail": "mailto:bouhaili.24@gmail.com",
     "Appelink": "",
-    "privacyURL": " "
+    "privacyURL": "https://sites.google.com/view/merge-master-scary-monster/home"
 }
