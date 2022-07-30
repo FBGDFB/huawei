@@ -1,1 +1,22 @@
-{}
+{ 
+    "Virtion": 2,
+    "Data": [
+            {
+              "Name": " ",
+              "IconUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Merge%20Monster/ADS/MergeMaster.png",
+              "GameUrl": "https://play.google.com/store/apps/details?id=com.dreamingboy.mergemaster",
+              "Stars": 5
+            },
+            {
+                "Name": "",
+                "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Ads/Scary%20horrora.jpg",
+                "GameUrl": "https://play.google.com/store/apps/details?id=com.yazengame.scaryteachers.video.prank",
+                "Stars": 5
+            },{
+                "Name": " ",
+                "IconUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/GuessTheDrawing/ADS/Guessdrawing.jpg",
+                "GameUrl": "https://play.google.com/store/apps/details?id=com.DreamingBoy.GuessTheDrawing",
+                "Stars": 5
+            }
+    ]
+}
