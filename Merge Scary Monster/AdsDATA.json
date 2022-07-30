@@ -2,7 +2,7 @@
     "Virtion": "v1.0.1",
     "OfferWellappKey": "",
     "EnableAdsSwitch": 0,
-    "EnableAdsTestMode": 1,
+    "EnableAdsTestMode": 0,
     "ShowBanner": false,
     "COPPA": false,
     "AdsInRetry": false,
