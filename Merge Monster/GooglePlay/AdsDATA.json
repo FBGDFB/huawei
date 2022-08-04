@@ -10,19 +10,19 @@
     "UseMotionView": false,
     "AdsInRetry": true,
     "AdsInNoThinksBtn": false,
-    "EnableOnerAds": 1,
-    "AdsUrl": "https://appgallery.huawei.com/app/C105039399",
-    "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/CouplesDressUp/SortCandyBobbles.jpg",
-    "Description": "From  the legendary Dreaming Boy comes Sort Candy Bobbles Saga! Unique candies, more divine matching combinations and challenging game ",
-    "Title": "Sort Candy Bobbles - 球类拼图",
+    "EnableOnerAds": 0,
+    "AdsUrl": "https://play.google.com/store/apps/details?id=com.DreamingBoy.Hogo",
+    "ImageUrl": "https://github.com/FBGDFB/HoGoPro/blob/main/Huawei%20Ads/%20frive.jpg",
+    "Description": "This All Games Apps is a free collection of More Than +5500 games in One app!It is the best bundle for Android that you can imagine!",
+    "Title": "Hogo : All in One Games",
     "ImageADS": {
         "instanceID": 0
     },
     "EnableOnerNative": 0,
-    "NativeAdsUrl": "https://play.google.com/store/apps/details?id=com.DreamingBoy.islandwars",
-    "NativeImageUrl": "https://appimg2.dbankcdn.com/application/icon144/1082/e4513235efc2480f944f731b9656af84.png",
-    "NativeDescription": "Welcome to Island Wars : Commander, the Dark Legion is coming!",
-    "NativeTitle": "Island Wars",
+    "NativeAdsUrl": "https://play.google.com/store/apps/details?id=com.DreamingBoy.Hogo",
+    "NativeImageUrl": "https://appimg2.dbankcdn.com/application/icon144/1082/fafc2264ea614ecfa180189112000370.png",
+    "NativeDescription": "Welcome to Hogo: All in One Games : The NEW BEST FREE game!",
+    "NativeTitle": "Hogo: All in One Games",
     "NativeImageADS": {
         "instanceID": 0
     }
