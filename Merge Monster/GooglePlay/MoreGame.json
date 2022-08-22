@@ -18,15 +18,9 @@
        "GameUrl":"https://play.google.com/store/apps/details?id=com.yazengame.scaryteachers.video.prank"
    },
   {
-       "Name":"Hogo:All in One Games",
+       "Name":"Hogo:All Games",
        "Description":"Welcome to Hogo: All in One Games : The NEW BEST FREE game!",
        "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/1082/fafc2264ea614ecfa180189112000370.png",
        "GameUrl":"https://play.google.com/store/apps/details?id=com.DreamingBoy.Hogo"
-   },
-  {
-       "Name":"Squid Challenge",
-       "Description":"Squid Challenge game is a classic jumping game that's easy to play",
-       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/sqoud.jpg",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.GamePlay.SquidChallangeGlassStepping"
    } 
 ]
